@@ -1,0 +1,73 @@
+
+/*.login{
+    margin-top: 10%;
+    margin-bottom: 0%;
+    margin-left: 35%;
+    margin-right: 35%;
+    color: #fff;
+    background-color: burlywood;
+    width: 450px;
+    text-align: right;
+}
+
+.logintext{
+text-align: center;
+} */
+.csspass{
+    right: 50px;
+     top: 50px;
+}
+
+div.formcontent{
+    text-align: center;
+    background-color: aqua;
+    margin-top: -36px;
+    margin-bottom: 0%;
+    margin-left: 35%;
+    margin-right: 35%;
+    width: 450px;
+}
+
+label.rights{
+    font-size: large;
+    background-color: aqua;
+    margin-top: -37px;
+    margin-bottom: 40px;
+    margin-left: 35%;
+    margin-right: 0%;
+    width: 450px;
+    display: inline-block;
+}
+
+button.submit{
+    margin-top: 5%;
+    margin-left: 43%;
+    margin-right: 70%;
+    background-color: red;
+    width: 900pxs;
+    }
+
+.loginheader{
+    background-color: #666;
+    height: 70px;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 150%;
+    width: 450px;
+    margin-top: 10%;
+    margin-bottom: 0%;
+    margin-left: 35%;
+    margin-right: 35%;
+}
+
+input{
+    background-color: #ccc;
+}
+
+label.logintext{
+    color: blue;
+}
+
+label.rights{
+      background-color: blue;
+}

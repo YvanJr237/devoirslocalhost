@@ -1,0 +1,124 @@
+body{
+    font-size: bolder;
+    font-family: "Lucida Handwriting", cursive;
+    line-height: 1.5;
+    font-size: 80%;
+}
+
+div.block1 .composant1{
+    height: 10%;
+    width: 155px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 23px;
+    padding-bottom: 130px;
+    background-color: rgba(20, 112, 82, 0.822);
+    border-radius: 690%;
+    color: #fff;
+    position: absolute;
+    right: 71%;
+    top: -0%;
+}
+
+div.block1 .composant2{
+    height: 50%;
+    width: 10%;
+    background-color: rgba(20, 112, 82, 0.822);
+    border-radius: 50%;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 33px;
+    padding-bottom: 45px;
+    color: #fff;
+    position: relative;
+    right: -31.5%;
+    top: -150%;
+    bottom: 8%;
+    margin-top: 5%;
+}
+
+div.block1 .composant3{
+    height: 10%;
+    width: 155px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 23px;
+    padding-bottom: 125px;
+    background-color: rgba(20, 112, 82, 0.822);
+    border-radius: 690%;
+    color: #fff;
+    position: absolute;
+    right: 42%;
+    top: 4%;
+}
+
+div.block2 .composant4{
+    height: 10%;
+    width: 155px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 23px;
+    padding-bottom: 125px;
+    background-color: rgba(20, 112, 82, 0.822);
+    border-radius: 690%;
+    color: #fff;
+    position: absolute;
+    right: 64%;
+}
+
+div.block2 .composant5{
+    height: 10%;
+    width: 155px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 23px;
+    padding-bottom: 125px;
+    background-color: rgba(20, 112, 82, 0.822);
+    border-radius: 690%;
+    color: #fff;
+    position: absolute;
+    right: 50%;
+}
+div.block2{
+    text-align: center;
+}
+
+div.block1{
+    display: inline;
+    text-align: center;
+}
+
+.all{
+    text-align: center;
+    position: relative;
+    left: 10%;
+    margin-top: 15%;
+    margin-left: -1%;
+    margin-right: -3%;
+}
+
+div.block2 .composant5:hover{
+    background-color: firebrick;
+    border-radius: 20% 10% 40% 50%;
+}
+
+div.block2 .composant4:hover{
+    background-color: rgb(240, 140, 210);
+    border-radius: 10% 30% 80% 10%;
+}
+
+div.block1 .composant3:hover{
+    background-color: rgb(237, 253, 7);
+    color: black;
+    border-radius: 50% 90% 20% 90%;
+}
+
+div.block1 .composant2:hover{
+    background-color: rgb(29, 1, 1);
+    border-radius: 30% 50% 10% 40%;
+}
+
+div.block1 .composant1:hover{
+    background-color: rgb(68, 7, 212);
+    border-radius: 40% 20% 40% 20%;
+}
